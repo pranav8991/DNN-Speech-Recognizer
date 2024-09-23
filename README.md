@@ -1,4 +1,3 @@
-
 # 🎤 DNN Speech Recognizer: Turning Babble into Text! 🚀
 
 ## **Welcome to Project Introduction!**
@@ -10,6 +9,9 @@ This notebook is your magical portal to creating a deep neural network that list
 ---
 
 ## **Step-by-Step Guide to Victory!**
+- The tasks for this project are outlined in the vui_notebook.ipynb in three steps. Follow all the instructions, which include implementing code in sample_models.py, answering questions, and providing results. The following list is a summary of the required tasks.
+
+  ![pipeline](https://github.com/user-attachments/assets/1df41b6b-ca04-4871-91b6-8ead2a72a121)
 
 ### **Step 1: Feature Extraction – The Beginning of the End**
 Our journey begins with the LibriSpeech dataset, where we’ll extract features from raw audio. Execute all code cells like a wizard casting spells to uncover hidden gems of information! 
